@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 div{
 	width: 200px;
-	border:2px solid black;
+	border:1px solid black;
 	background: yellow;
 }
 
 td{
 	width: 200px;
-	border:2px solid black;
+	border:1px solid black;
 	background: yellow;
 }
