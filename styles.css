@@ -1,12 +1,7 @@
 /*  your css code here. If applicable */
-div{
-	width: 200px;
-/* 	border:1px solid black; */
-/* 	background: yellow; */
+table {
+	background-color: yellow;
 }
-
-td{
-	width: 200px;
-/* 	border:1px solid black; */
-/* 	background: yellow; */
+table, td, th {
+	border: 1px solid black;
 }
